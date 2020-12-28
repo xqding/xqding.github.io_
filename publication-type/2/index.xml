@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | </title>
+    <link>/publication-type/2/</link>
+      <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Computing Absolute Free Energy with Deep Generative Models</title>
+      <link>/publication/dgm_bar/</link>
+      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/dgm_bar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerated CDOCKER with GPUs, parallel simulated annealing and fast Fourier transforms</title>
+      <link>/publication/fft_cdocker/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/fft_cdocker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deciphering Protein Evolution and Fitness Landscapes with Latent Space Models</title>
+      <link>/publication/pevae/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/pevae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Solver for Large Scale Multistate Bennett Acceptance Ratio Equations</title>
+      <link>/publication/fastmbar/</link>
+      <pubDate>Mon, 28 Jan 2019 13:08:25 -0500</pubDate>
+      <guid>/publication/fastmbar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CDOCKER and λ-dynamics for Prospective Prediction in D3R Grand Challenge 2</title>
+      <link>/publication/d3r/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/d3r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gibbs Sampler-based λ-dynamics and Rao–Blackwell Estimator for Alchemical Free Energy Calculation</title>
+      <link>/publication/gsld/</link>
+      <pubDate>Fri, 26 May 2017 13:16:05 -0500</pubDate>
+      <guid>/publication/gsld/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mechanism of Vps4 Hexamer Function Revealed by Cryo-EM</title>
+      <link>/publication/vps4/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/vps4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved Prediction of RNA Secondary Structure by Integrating the Free Energy Model with Restraints Derived from Experimental Probing Data</title>
+      <link>/publication/rna-lulab/</link>
+      <pubDate>Mon, 13 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/rna-lulab/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
