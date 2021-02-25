@@ -5,12 +5,20 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Feb 2021 13:08:25 -0500</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>DeepBAR: A Fast and Exact Method for Binding Free Energy Computation</title>
+      <link>/publication/deepbar/</link>
+      <pubDate>Thu, 25 Feb 2021 13:08:25 -0500</pubDate>
+      <guid>/publication/deepbar/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Stability and folding pathways of tetra-nucleosome from six-dimensional free energy surface</title>
