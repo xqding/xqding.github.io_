@@ -1,102 +1,322 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
     <loc>/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2022-09-15T13:08:25-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2022-09-15T13:08:25-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2022-09-15T13:08:25-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/pc/</loc>
+    <lastmod>2022-09-15T13:08:25-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2022-09-15T13:08:25-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2022-09-15T13:08:25-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2022-09-15T13:08:25-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication-type/3/</loc>
     <lastmod>2022-05-31T13:08:25-05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/potential_contrasting/</loc>
     <lastmod>2022-05-31T13:08:25-05:00</lastmod>
-  </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2022-05-31T13:08:25-05:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2022-05-31T13:08:25-05:00</lastmod>
-  </url><url>
-    <loc>/publication-type/2/</loc>
+  </url>
+  
+  <url>
+    <loc></loc>
     <lastmod>2021-06-05T13:16:05-05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/d_gsld/</loc>
     <lastmod>2021-06-05T13:16:05-05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-06-05T13:16:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-06-05T13:16:05-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/deepbar/</loc>
     <lastmod>2021-02-25T13:08:25-05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/tetranucleosome/</loc>
     <lastmod>2021-02-17T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-02-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication-type/1/</loc>
     <lastmod>2020-12-11T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2020-12-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/aiwae/</loc>
     <lastmod>2020-12-11T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/dgm_bar/</loc>
     <lastmod>2020-11-03T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/fft_cdocker/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/pevae/</loc>
     <lastmod>2019-10-28T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2019-10-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/fastmbar/</loc>
     <lastmod>2019-01-28T13:08:25-05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/d3r/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/gsld/</loc>
     <lastmod>2017-05-26T13:16:05-05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2017-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2017-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2017-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2017-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/vps4/</loc>
     <lastmod>2017-04-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2017-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2017-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2017-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/category/demo/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/post/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/post/getting-started/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tag/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2015-07-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2015-07-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/rna-lulab/</loc>
     <lastmod>2015-07-13T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2015-07-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2015-07-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2015-07-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2015-07-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2015-07-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2015-07-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/project/fastmbar/</loc>
-  </url><url>
+  </url>
+  
+  <url>
+    <loc>/project/pc/</loc>
+  </url>
+  
+  <url>
     <loc>/project/</loc>
   </url>
+  
 </urlset>

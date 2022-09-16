@@ -1,5 +1,5 @@
 (() => {
-  // ns-hugo:/Users/ding/Dropbox (MIT)/Personal/website_on_github/wowchemy-hugo-modules/wowchemy/assets/js/wowchemy-theming.js
+  // ns-hugo:/Users/dingxq/Google Drive/ProjectsOnGitHub/source_for_website_on_github/wowchemy-hugo-modules/wowchemy/assets/js/wowchemy-theming.js
   var body = document.body;
   function getThemeMode() {
     return parseInt(localStorage.getItem("wcTheme") || 2);
@@ -50,7 +50,7 @@
   var wcDarkLightEnabled = true;
   var wcIsSiteThemeDark = false;
 
-  // <stdin>
+  // js/wowchemy-init.js
   window.wc = {
     darkLightEnabled: wcDarkLightEnabled,
     isSiteThemeDark: wcIsSiteThemeDark
